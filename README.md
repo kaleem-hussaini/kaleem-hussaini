@@ -2,7 +2,7 @@
 📊 **Data Science Student** | 🔍 **Machine Learning Enthusiast** | 💻 **Software Developer**  
 
 I am a **Data Science student** in my 4th semester at the **Institute of Management Sciences, Peshawar**.  
-Passionate about exploring **data-driven insights** and developing innovative solutions, I have worked on various mini-projects applying my knowledge in **Python, SQL, Java, and more**.  
+Passionate about exploring **data-driven insights** and developing innovative solutions, I have worked on various mini-projects applying my knowledge in **Python, SQL, Java, and R**.  
 
 ---
 
