@@ -47,13 +47,3 @@ Passionate about exploring **data-driven insights** and developing innovative so
 - **LinkedIn**: [www.linkedin.com/in/kaleem-hussaini](https://www.linkedin.com/in/kaleem-hussaini)  
 - **Email**: kaleemhussaini.official@gmail.com | mkaleemhussaini@gmail.com  
 
----
-
-### 🎯 **How to Add This to Your GitHub Profile**  
-1. Go to **GitHub** and log in.  
-2. Create a new repository named **kaleem-hussaini** (same as your username).  
-3. Check **"Add a README file"** and create the repository.  
-4. Open **README.md**, click on **Edit**, and paste the above code.  
-5. Click **"Commit changes."**  
-
-Your **GitHub profile** is now professional and visually appealing! 🚀  
