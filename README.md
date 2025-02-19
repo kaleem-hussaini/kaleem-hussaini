@@ -14,16 +14,6 @@ Passionate about exploring **data-driven insights** and developing innovative so
 - 📈 **Statistics & Analytics**: Proficient in **R language** for statistical analysis and visualization.  
 - 🛠 **Tech Stack**: Python, Java, SQL, Tkinter, HTML/CSS, LaTeX, Assembly, CMD/Batch Scripting.  
 
----
-
-## 🚀 Projects & Learning  
-✔ **Python for Data Science**: NumPy & Pandas for preprocessing, scikit-learn for regression models.  
-✔ **GUI-Based Applications**: Developed small-scale GUI applications in **Tkinter & Java NetBeans**.  
-✔ **Database Management**: Integrated **Python with MySQL & PostgreSQL** for data storage solutions.  
-✔ **Machine Learning Basics**: Implemented **Linear Regression & Confusion Matrix** on small datasets.  
-
----
-
 ## 🛠 Languages & Tools  
 <p align="left">  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>  
